@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>my.assignments</groupId>
-    <artifactId>camelot-task</artifactId>
+    <artifactId>natlottask</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
